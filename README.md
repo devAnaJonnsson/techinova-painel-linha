@@ -24,9 +24,6 @@
 
 ---
 
-## 🚀 Visão Geral
-
-O **Painel de Linha TechInova** foi projetado para transformar dados brutos do chão de fábrica em insights visuais claros e acionáveis. Através de dashboards intuitivos exibidos em monitores industriais ou dispositivos móveis, gestores e operadores conseguem acompanhar a produtividade, paradas de linha, eficiência global de equipamentos (OEE) e metas diárias instantaneamente.
 
 ### 🎯 Objetivos do Sistema:
 - **Exibição em Tempo Real:** Atualizações contínuas de metas vs. produção realizada.
